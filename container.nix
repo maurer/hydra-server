@@ -1,0 +1,5 @@
+{
+  hydra = {
+    deployment.targetEnv = "container";
+  };
+}
